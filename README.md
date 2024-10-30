@@ -1,1 +1,1 @@
-This project uses the Breast Cancer dataset from Python's scikit package to show how to use a few clustering algorithms, Principal Component Analysis and Support Vector Machine, in order to classify the samples
+This project uses the Breast Cancer dataset from the Scikit package to show how to use clustering algorithms such as Principal Component Analysis and Support Vector Machine, in order to classify the samples.
